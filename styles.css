@@ -226,6 +226,9 @@ input[type=email]{
     position: static;
     transform: rotate(0);
   }
+  .contact1{
+  width:60%;
+  }
 }
 #udemy{
   background-color:#f4C2C2;
